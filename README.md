@@ -1,4 +1,4 @@
-# Biblioteca_pandas
+# Case1 - Biblioteca_pandas
 
 
 ## Análise de dados de varejo: com pontos relevantes
